@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "id": "ff93",
+      "firstName": "neeraj",
+      "lastName": "lodhi",
+      "email": "neerajlodhi1993@gmail.com",
+      "dob": "1977-07-04T18:30:00.000Z",
+      "gender": "male",
+      "education": "BE",
+      "company": "lk",
+      "experience": "7",
+      "package": "8"
+    },
+    {
+      "firstName": "ewyyyyyyyyyyyyy",
+      "lastName": "fwr",
+      "email": "wfgw",
+      "dob": "2000-02-01T18:30:00.000Z",
+      "gender": "male",
+      "education": "12TH",
+      "company": "2",
+      "experience": 2,
+      "package": 2,
+      "id": "59c5"
+    },
+    {
+      "id": "0087",
+      "firstName": "kj.ln",
+      "lastName": "lk/n",
+      "email": "kln",
+      "dob": "2002-02-01T18:30:00.000Z",
+      "gender": "male",
+      "education": "12TH",
+      "company": "2dfe",
+      "experience": 2,
+      "package": 2
+    }
+  ]
+}
